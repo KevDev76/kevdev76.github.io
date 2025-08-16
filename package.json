@@ -1,6 +1,6 @@
 {
   "name": "my-travels",
-  "homepage": "https://KevDev76.github.io/my-travel",
+  "homepage": "https://kevdev76.github.io/my-travel",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
