@@ -1,0 +1,92 @@
+{
+  "name": "Camargue",
+  "photo": "photo/camargue/plage/IMG-20250714-WA0000.jpg",
+  "position": [
+    43.50622,
+    4.14122
+  ],
+  "visits": [
+    {
+      "name": "Plage",
+      "position": [
+        43.523496,
+        4.135462
+      ],
+      "photos": [
+        "photo/camargue/plage/IMG-20250714-WA0000.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0001.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0002.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0003.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0004.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0005.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0006.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0007.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0008.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0009.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0010.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0011.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0012.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0013.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0014.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0015.jpg",
+        "photo/camargue/plage/IMG-20250714-WA0021.jpg"
+      ]
+    },
+    {
+      "name": "Les Salins",
+      "position": [
+        43.557467,
+        4.183377
+      ],
+      "photos": [
+        "/photo/camargue/salin/1000008134.jpeg",
+        "/photo/camargue/salin/20250716_101001.jpeg",
+        "/photo/camargue/salin/20250716_101005.jpeg",
+        "/photo/camargue/salin/20250716_101006.jpeg",
+        "/photo/camargue/salin/20250716_102247.jpeg",
+        "/photo/camargue/salin/20250716_102259.jpeg",
+        "/photo/camargue/salin/20250716_102350.jpeg",
+        "/photo/camargue/salin/20250716_102353.jpeg",
+        "/photo/camargue/salin/20250716_102405.jpeg",
+        "/photo/camargue/salin/20250716_103004.jpeg",
+        "/photo/camargue/salin/20250716_103005.jpeg",
+        "/photo/camargue/salin/20250716_103007.jpeg",
+        "/photo/camargue/salin/20250716_103022.jpeg",
+        "/photo/camargue/salin/20250716_103025.jpeg",
+        "/photo/camargue/salin/20250716_103027.jpeg",
+        "/photo/camargue/salin/20250716_103035.jpeg",
+        "/photo/camargue/salin/20250716_103036.jpeg",
+        "/photo/camargue/salin/20250716_103037.jpeg",
+        "/photo/camargue/salin/20250716_103454.jpeg",
+        "/photo/camargue/salin/20250716_103455.jpeg",
+        "/photo/camargue/salin/20250716_103457.jpeg",
+        "/photo/camargue/salin/20250716_103459.jpeg",
+        "/photo/camargue/salin/20250716_103504.jpeg",
+        "/photo/camargue/salin/20250716_105015.jpeg",
+        "/photo/camargue/salin/20250716_105017.jpeg",
+        "/photo/camargue/salin/20250716_105024.jpeg",
+        "/photo/camargue/salin/20250716_105026.jpeg",
+        "/photo/camargue/salin/20250716_105421.jpeg",
+        "/photo/camargue/salin/20250716_105433.jpeg",
+        "/photo/camargue/salin/20250716_105459.jpeg",
+        "/photo/camargue/salin/20250716_105528.jpeg",
+        "/photo/camargue/salin/20250716_105612.jpeg",
+        "/photo/camargue/salin/20250716_105614.jpeg",
+        "/photo/camargue/salin/20250716_105638.jpeg",
+        "/photo/camargue/salin/20250716_105644.jpeg",
+        "/photo/camargue/salin/20250716_105646.jpeg",
+        "/photo/camargue/salin/20250716_105647.jpeg",
+        "/photo/camargue/salin/20250716_105652.jpeg",
+        "/photo/camargue/salin/20250716_105653.jpeg",
+        "/photo/camargue/salin/20250716_105654.jpeg",
+        "/photo/camargue/salin/20250716_105713.jpeg",
+        "/photo/camargue/salin/20250716_105715.jpeg",
+        "/photo/camargue/salin/20250716_105724.jpeg",
+        "/photo/camargue/salin/20250716_105731.jpeg",
+        "/photo/camargue/salin/20250716_105732.jpeg",
+        "/photo/camargue/salin/20250716_105737.jpeg",
+        "/photo/camargue/salin/20250716_105738.jpeg"
+      ]
+    }
+  ]
+}

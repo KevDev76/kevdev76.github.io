@@ -1,7 +1,7 @@
 import { readdirSync, writeFileSync } from "fs";
 import { join, extname } from "path";
 
-const dir = "./public/photo/camargue/salin";
+const dir = "./public/photo/camargue/plage";
 const output = "./photos.json";
 
 const extensions = [".jpg", ".jpeg", ".png", ".gif"];
