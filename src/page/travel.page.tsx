@@ -29,7 +29,7 @@ function TravelPage() {
                 <Container>
                     <Typography variant='h2' textAlign={'center'}>La Camargue</Typography>
                     <Stack direction='row' spacing={2} justifyContent={'space-between'}>
-                        <Map/>
+                        <Map center={[43.557467, 4.183377]} zoom={15} markers={[{position: [43.557467, 4.183377]}]}/>
                         <Galery photos={photos} onPhotoClick={openDiaporama}/>
                     </Stack>
                 </Container>

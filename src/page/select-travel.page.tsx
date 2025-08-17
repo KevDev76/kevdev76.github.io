@@ -8,7 +8,7 @@ function SelectTravel() {
         <Container>
             <Typography variant='h2' textAlign={'center'}> Mes Voyages</Typography>
             <Stack direction='column' spacing={2} alignItems={'center'}>
-                <Map/>
+                <Map center={[43.50622, 4.14122]} zoom={6} markers={[{position: [43.50622, 4.14122]}]}/>
                 <TravelCardList/>
             </Stack>
         </Container>
